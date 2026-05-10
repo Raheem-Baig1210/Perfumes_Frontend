@@ -1,5 +1,5 @@
 import React from 'react';
-import { motion } from 'framer-motion';
+// import { motion } from 'framer-motion';
 // import { Instagram, Twitter, Facebook, ArrowUpRight, Mail } from 'lucide-react';
 // If Facebook still fails, use:
 // import { Instagram, Twitter, Facebook as FacebookIcon, ArrowUpRight, Mail } from 'lucide-react';
